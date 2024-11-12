@@ -48,10 +48,10 @@ May 2017 - May 2018
 
 ## Certificates
 
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2024) (Coursera - Google)
-- [Get Started with Python](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Sep 2024) (Coursera - Google)
-- [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Sep 2024) (Coursera - Microsoft)
-- [SQL for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Sep 2024) (Coursera - University of California, Davis)
+- [Google Data Analytics Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf) (Sep 2024) (Coursera - Google)
+- [Get Started with Python](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Certification_Get%20started%20with%20Python.pdf) (Sep 2024) (Coursera - Google)
+- [Microsoft Power BI Data Analyst Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Coursera_Microsoft%20Power%20BI%20Certification.pdf) (Sep 2024) (Coursera - Microsoft)
+- [SQL for Data Science](https://github.com/LimPeiTing/LimPeiTing/blob/main/SQL%20for%20Data%20Science%20Certification.pdf) (Sep 2024) (Coursera - University of California, Davis)
 
 ## Contacts
 - LinkedIn: [@limpeiting](https://www.linkedin.com/in/pei-ting-578b262a7/)
