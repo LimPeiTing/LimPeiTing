@@ -1,4 +1,4 @@
-# Lim Pei Ting Portfolio 
+# My Portfolio 
 ## About 
 Hi, I am Pei Ting. I have an analytical background with two years of experience as a Product Engineer, where I developed strong expertise in data management, statistical analysis, and automation. By leveraging techniques like Statistical Process Control (SPC), Design of Experiments (DOE), and data-driven methodologies, I achieved measurable improvements, such as enhancing product yield by 0.4%. I also automated reporting workflows to deliver real-time insights, empowering stakeholders to make informed decisions and driving operational efficiency.  
 
