@@ -1,4 +1,4 @@
-# Lim Pei Ting Data Analysis Portfolio 
+# Lim Pei Ting Portfolio 
 ## About 
 Hi, I am Pei Ting. I have an analytical background with two years of experience as a Product Engineer. I have gained a strong expertise in data management, statistical analysis, and data visualization. By applying Statistical Process Control (SPC), Design of Experiments (DOE), and data-driven decision-making, I have successfully improved product yield by 0.4%. Additionally, I automated reporting processes, giving stakeholders real-time insights that facilitated better decision-making and enhanced operational efficiency. I am excited to bring my technical and analytical skills to the field of data analysis as a junior data analyst.
 
@@ -37,6 +37,10 @@ Managed data governance and quality processes, ensuring the accuracy and complet
 
 
 ## Education
+Universiti Malaya (UM):
+Master in Data Science (MDS),
+Expected March 2026
+
 Universiti Tunku Abdul Rahman, Kampar, Perak: 
 Bachelor of Science (Honours) Chemistry,
 May 2018 - June 2021
@@ -48,6 +52,7 @@ May 2017 - May 2018
 
 ## Certificates
 
+- [AWS Machine Learning Engineer Associate] (Expected March 2025)
 - [Google Data Analytics Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf) (Sep 2024) (Coursera - Google)
 - [Get Started with Python](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Certification_Get%20started%20with%20Python.pdf) (Sep 2024) (Coursera - Google)
 - [Microsoft Power BI Data Analyst Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Coursera_Microsoft%20Power%20BI%20Certification.pdf) (Sep 2024) (Coursera - Microsoft)
