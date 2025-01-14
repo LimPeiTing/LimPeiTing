@@ -4,7 +4,6 @@ Hi, I am Pei Ting. I have an analytical background with two years of experience 
 
 I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Throughout my self-directed learning journey on online platforms, I have built a strong foundation in statistical analysis, data visualization, and programming languages like Python and SQL. By completing various courses and projects, I have gained practical experience in gathering, transforming, and structuring data for analysis to support informed decision-making.
 
-My CV in [pdf](https://github.com/LimPeiTing/LimPeiTing/blob/main/Resume_Data%20Analyst.pdf).
 
 ## Experience
 Infineon Technologies (M) Sdn Bhd
