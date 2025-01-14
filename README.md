@@ -52,7 +52,7 @@ May 2017 - May 2018
 
 ## Certificates
 
-- [AWS Machine Learning Engineer Associate] (Expected March 2025)
+- AWS Machine Learning Engineer Associate (Expected March 2025)
 - [Google Data Analytics Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf) (Sep 2024) (Coursera - Google)
 - [Get Started with Python](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Certification_Get%20started%20with%20Python.pdf) (Sep 2024) (Coursera - Google)
 - [Microsoft Power BI Data Analyst Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Coursera_Microsoft%20Power%20BI%20Certification.pdf) (Sep 2024) (Coursera - Microsoft)
