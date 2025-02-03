@@ -40,9 +40,6 @@ Managed data governance and quality processes, ensuring the accuracy and complet
 
 
 ## Education
-Universiti Malaya (UM):
-_Master in Data Science (MDS)_,
-Expected March 2026
 
 Universiti Tunku Abdul Rahman, Kampar, Perak: 
 Bachelor of Science (Honours) Chemistry,
@@ -55,7 +52,6 @@ May 2017 - May 2018
 
 ## Certificates
 
-- __AWS Machine Learning Engineer Associate_ (Expected March 2025)
 - [Google Data Analytics Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf) (Sep 2024) (Coursera - Google)
 - [Get Started with Python](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Certification_Get%20started%20with%20Python.pdf) (Sep 2024) (Coursera - Google)
 - [Microsoft Power BI Data Analyst Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Coursera_Microsoft%20Power%20BI%20Certification.pdf) (Sep 2024) (Coursera - Microsoft)
