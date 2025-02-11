@@ -1,13 +1,10 @@
 # My Portfolio 
 ## About 
-Hi, I am Pei Ting. I have an analytical background with two years of experience as a Product Engineer, where I developed strong expertise in data management, statistical analysis, and automation. By leveraging techniques like Statistical Process Control (SPC), Design of Experiments (DOE), and data-driven methodologies, I achieved measurable improvements, such as enhancing product yield by 0.4%. I also automated reporting workflows to deliver real-time insights, empowering stakeholders to make informed decisions and driving operational efficiency.  
+Hi, I am Pei Ting. I have an analytical background with two years of experience as a Product Engineer, where I developed strong expertise in data management, statistical analysis, and automation. By leveraging techniques like Statistical Process Control (SPC), Design of Experiments (DOE), and data-driven methodologies, I achieved measurable improvements, such as enhancing product yield by 0.4%. I also automated reporting workflows to deliver real-time insights, empowering stakeholders to make informed decisions and driving operational efficiency.
 
-Through self-directed learning and hands-on projects, I have built a solid foundation in data science and machine learning. I am proficient in Python, SQL, and data visualization tools, with experience in designing end-to-end workflows, including data preprocessing, exploratory analysis, feature engineering, and predictive modeling. Some of my key projects include stock price prediction using LSTMs and medical insurance cost prediction using machine learning algorithms.  
+I am currently pursuing a Master in Data Science, expected to be completed in March 2026. Through self-directed learning and hands-on projects, I have built a solid foundation in data science and machine learning. I am proficient in Python, SQL, and data visualization tools, with experience in designing end-to-end workflows, including data preprocessing, exploratory analysis, feature engineering, and predictive modeling. Some of my key projects include stock price prediction using LSTMs and medical insurance cost prediction using machine learning algorithms.
 
-Additionally, I am pursuing an AWS certification to strengthen my cloud computing expertise and expand my ability to deploy, manage, and scale machine learning models and data pipelines in a cloud environment.  
-
-I am passionate about solving real-world problems through data and am eager to apply my technical and analytical skills to contribute as a Data Scientist or Machine Learning Engineer.  
-
+I am passionate about solving real-world problems through data and am eager to apply my technical and analytical skills to contribute as a Data Scientist or Machine Learning Engineer.
 
 ## Experience
 Infineon Technologies (M) Sdn Bhd
