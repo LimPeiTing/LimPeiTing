@@ -1,59 +1,62 @@
-# My Portfolio 
-## About 
-Hi, I am Pei Ting. I have an analytical background with two years of experience as a Product Engineer, where I developed strong expertise in data management, statistical analysis, and automation. By leveraging techniques like Statistical Process Control (SPC), Design of Experiments (DOE), and data-driven methodologies, I achieved measurable improvements, such as enhancing product yield by 0.4%. I also automated reporting workflows to deliver real-time insights, empowering stakeholders to make informed decisions and driving operational efficiency.
+# Hi, I'm Pei Ting 
 
-I am currently pursuing a Master in Data Science, expected to be completed in March 2026. Through self-directed learning and hands-on projects, I have built a solid foundation in data science and machine learning. I am proficient in Python, SQL, and data visualization tools, with experience in designing end-to-end workflows, including data preprocessing, exploratory analysis, feature engineering, and predictive modeling. Some of my key projects include stock price prediction using LSTMs and medical insurance cost prediction using machine learning algorithms.
+Engineer with prior experience in semiconductor product engineering, now focused on building machine learning and applied AI systems.
 
-I am passionate about solving real-world problems through data and am eager to apply my technical and analytical skills to contribute as a Data Scientist or Machine Learning Engineer.
+With a background in statistical analysis and process optimization in high-volume manufacturing, I transitioned into Data Science to design scalable ML solutions across distributed and cloud environments. I recently completed my Master’s in Data Science (coursework completed), where I worked extensively on reinforcement learning, NLP, big data processing, and multi-cloud ML workflows.
 
-## Experience
-Infineon Technologies (M) Sdn Bhd
+---
 
-Product Engineer (PE)
+## Technical Interests
 
-December 2021 - May 2024
+- Machine Learning & Deep Learning  
+- Reinforcement Learning  
+- Natural Language Processing (NLP)  
+- Distributed Computing (Apache Spark)  
+- Scalable Multi-Cloud ML Systems (AWS & GCP)  
 
-- Elevate process capability, minimize defects and enhance throughput in high-volume
-manufacturing through the utilization of statistical process control (SPC), Design of Experiment
-(DOE) techniques, data-driven decision making and systematic problem-solving expertise.
-Successfully achieved 0.4% higher yield in fiscal year 2022/2023.
-- Collaborated with cross-functional teams to create and execute data-driven solutions for business
-challenges. Worked closely with Unit Process Engineers (UPE) to implement corrective actions and
-process improvements, ensuring compliance with quality standards while enhancing product yield
-and efficiency. Successfully reduced wafer break incidents from 58 cases to 21 cases between
-fiscal years 2021/2022 and 2022/2023.
-- Compiled and analyzed process data to create reports with CEDA (Common Engineering Data
-Analysis) for assessing process yield performance. Developed automation reports that minimized
-manual tasks, leading to improved efficiency in overall data analysis.
-- Optimized Statistical Bin Analysis (SBA) to prevent invalid stops. Conducted statistical data
-analysis and identified root causes of yield deviations, resolving any issues that may arise.
-- Analyze and interpret large datasets to identify trends and insights that drive business decisions.
-- Support Quality Department to ensure technology met qualification and reliability standards.
-Managed data governance and quality processes, ensuring the accuracy and completeness of data. 
+---
 
+## Cloud & Engineering Experience
 
+Hands-on experience building ML systems on:
 
+- **AWS** (EMR, S3) – Distributed Spark pipelines, parallel cross-validation, batch inference  
+- **GCP** (Dataproc, BigQuery ML, Vertex AI) – Cloud-native data processing and model training workflows  
 
+My work emphasizes reproducible pipelines, scalable computation, and integration of heterogeneous data sources.
 
+---
 
-## Education
+## Selected Projects
 
-Universiti Tunku Abdul Rahman, Kampar, Perak: 
-Bachelor of Science (Honours) Chemistry,
-May 2018 - June 2021
+- Designed an end-to-end reinforcement learning trading framework integrating market, fundamental, and sentiment signals for sequential decision-making under realistic constraints  
 
-Universiti Tunku Abdul Rahman, Kampar, Perak:
-Foundation in Science,
-May 2017 - May 2018
+- Built a distributed ML pipeline on AWS EMR using Apache Spark with parallel model evaluation and scalable inference  
 
+- Developed an NLP-based fake job detection system combining classical ML and LSTM models, addressing severe class imbalance and deploying an interactive prediction interface  
 
-## Certificates
+- Engineered a large-scale analytics pipeline (3.5M+ records) to benchmark Spark vs Hive performance and develop predictive regression models  
 
-- [Google Data Analytics Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf) (Sep 2024) (Coursera - Google)
-- [Get Started with Python](https://github.com/LimPeiTing/LimPeiTing/blob/main/Google%20Certification_Get%20started%20with%20Python.pdf) (Sep 2024) (Coursera - Google)
-- [Microsoft Power BI Data Analyst Professional Certificate](https://github.com/LimPeiTing/LimPeiTing/blob/main/Coursera_Microsoft%20Power%20BI%20Certification.pdf) (Sep 2024) (Coursera - Microsoft)
-- [SQL for Data Science](https://github.com/LimPeiTing/LimPeiTing/blob/main/SQL%20for%20Data%20Science%20Certification.pdf) (Sep 2024) (Coursera - University of California, Davis)
+- Implemented a cloud-native healthcare prediction workflow on GCP integrating Dataproc, BigQuery ML, and Vertex AI within a multi-layer architecture  
 
-## Contacts
-- LinkedIn: [@limpeiting](https://www.linkedin.com/in/pei-ting-578b262a7/)
-- Email: peiting1202@gmail.com
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, R, SQL  
+**ML/DL:** Scikit-learn, TensorFlow, PyTorch, Spark MLlib  
+**Big Data:** Apache Spark, Hive  
+**Cloud:** AWS (EMR, S3), GCP (Dataproc, BigQuery, Vertex AI)  
+**Tools:** Git, Streamlit, Gradio, Power BI  
+
+---
+
+## Professional Direction
+
+Interested in opportunities involving machine learning engineering and applied AI systems, particularly roles that combine advanced modeling (e.g., reinforcement learning, NLP) with scalable data and cloud-based workflows.
+
+I am motivated by building intelligent, production-oriented systems that connect data processing, model development, and real-world deployment.
+
+---
+
+Connect with me on LinkedIn: www.linkedin.com/in/pei-ting-578b262a7
