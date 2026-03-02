@@ -41,19 +41,19 @@ My work emphasizes reproducible pipelines, scalable computation, and integration
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Python, R, SQL  
 **ML/DL:** Scikit-learn, TensorFlow, PyTorch, Spark MLlib  
 **Big Data:** Apache Spark, Hive  
-**Cloud:** AWS (EMR, S3), GCP (Dataproc, BigQuery, Vertex AI)  
+**Cloud:** AWS (EMR, S3, EC2, SageMaker), GCP (Dataproc, BigQuery, Vertex AI)  
 **Tools:** Git, Streamlit, Gradio, Power BI  
 
 ---
 
 ## Professional Direction
 
-Interested in opportunities involving machine learning engineering and applied AI systems, particularly roles that combine advanced modeling (e.g., reinforcement learning, NLP) with scalable data and cloud-based workflows.
+Interested in opportunities involving machine learning engineering and applied AI systems, particularly roles that combine advanced modeling with scalable data and cloud-based workflows.
 
 I am motivated by building intelligent, production-oriented systems that connect data processing, model development, and real-world deployment.
 
