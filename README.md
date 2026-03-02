@@ -44,7 +44,7 @@ My work emphasizes reproducible pipelines, scalable computation, and integration
 ## Tech Stack
 
 **Languages:** Python, R, SQL  
-**ML/DL:** Scikit-learn, TensorFlow, PyTorch, Spark MLlib  
+**ML/DL:** Scikit-learn, TensorFlow, Spark MLlib, StableBaselines  
 **Big Data:** Apache Spark, Hive  
 **Cloud:** AWS (EMR, S3, EC2, SageMaker, CLoudWatch), GCP (Dataproc, BigQuery, Vertex AI, Cloud Storage)  
 **Tools:** Git, Streamlit, Gradio, Power BI  
