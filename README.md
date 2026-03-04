@@ -1,62 +1,104 @@
-# Hi, I'm Pei Ting 
+## Hi, I'm Pei Ting 👋
 
-Engineer with prior experience in semiconductor product engineering, now focused on building machine learning and applied AI systems.
+Machine Learning and AI enthusiast with a background in semiconductor product engineering and a Master’s degree in Data Science.
 
-With a background in statistical analysis and process optimization in high-volume manufacturing, I transitioned into Data Science to design scalable ML solutions across distributed and cloud environments. I recently completed my Master’s in Data Science (coursework completed), where I worked extensively on reinforcement learning, NLP, big data processing, and multi-cloud ML workflows.
+I enjoy building practical machine learning systems that combine data processing, model development, and cloud-based workflows. My recent projects focus on NLP, distributed machine learning, and cloud AI pipelines using AWS and Google Cloud.
 
 ---
 
 ## Technical Interests
 
-- Machine Learning & Deep Learning  
-- Reinforcement Learning  
-- Natural Language Processing (NLP)  
-- Distributed Computing (Apache Spark)  
-- Scalable Multi-Cloud ML Systems (AWS & GCP)  
+- Machine Learning
+
+- Natural Language Processing (NLP)
+
+- Reinforcement Learning
+
+- Distributed Data Processing 
+
+- Cloud-based Machine Learning Systems
 
 ---
 
-## Cloud & Engineering Experience
+## Cloud & Data Engineering Experience
 
-Hands-on experience building ML systems on:
+Experience working with machine learning workflows on cloud platforms:
 
-- **AWS** (EMR, S3) – Distributed Spark pipelines, parallel cross-validation, batch inference  
-- **GCP** (Dataproc, BigQuery ML, Vertex AI) – Cloud-native data processing and model training workflows  
+# AWS
 
-My work emphasizes reproducible pipelines, scalable computation, and integration of heterogeneous data sources.
+-- EMR for distributed Spark processing
+
+-- S3 for data storage
+
+-- Building scalable ML pipelines
+
+# Google Cloud Platform
+
+-- Dataproc for Spark workloads
+
+-- BigQuery ML for model training
+
+-- Vertex AI for model experimentation
+
+My projects focus on building clear and reproducible ML pipelines from data processing to model evaluation.
 
 ---
 
-## Selected Projects
+## Featured Projects
+# AI Trading System with Reinforcement Learning
 
-- Designed an end-to-end reinforcement learning trading framework integrating market, fundamental, and sentiment signals for sequential decision-making under realistic constraints  
+- Developed a research prototype that integrates financial market data, fundamental indicators, and sentiment analysis (FinBERT) to explore reinforcement learning strategies for trading decisions.
 
-- Built a distributed ML pipeline on AWS EMR using Apache Spark with parallel model evaluation and scalable inference  
+# Distributed Machine Learning on AWS EMR
 
-- Developed an NLP-based fake job detection system combining classical ML and LSTM models, addressing severe class imbalance and deploying an interactive prediction interface  
+- Built a distributed ML pipeline using Apache Spark on AWS EMR to perform scalable data processing and model training.
 
-- Engineered a large-scale analytics pipeline (3.5M+ records) to benchmark Spark vs Hive performance and develop predictive regression models  
+# NLP Fake Job Posting Detection
 
-- Implemented a cloud-native healthcare prediction workflow on GCP integrating Dataproc, BigQuery ML, and Vertex AI within a multi-layer architecture  
+- Implemented an NLP classification system to detect fraudulent job postings using traditional ML models and LSTM networks, with techniques to handle class imbalance.
+
+# Cloud-Based Heart Disease Prediction Pipeline
+
+- Designed a cloud ML workflow on Google Cloud Platform using Dataproc, BigQuery ML, and Vertex AI for healthcare prediction tasks.
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, R, SQL  
-**ML/DL:** Scikit-learn, TensorFlow, Spark MLlib, StableBaselines  
-**Big Data:** Apache Spark, Hive  
-**Cloud:** AWS (EMR, S3, EC2, SageMaker, CLoudWatch), GCP (Dataproc, BigQuery, Vertex AI, Cloud Storage)  
-**Tools:** Git, Streamlit, Gradio, Power BI  
+#Languages
+Python • R • SQL
+
+#Machine Learning
+Scikit-learn • TensorFlow • PyTorch • Spark MLlib
+
+# NLP
+Text Classification • Sentiment Analysis • FinBERT
+
+# Big Data
+Apache Spark • Hive
+
+# Cloud Platforms
+AWS (EMR, S3, EC2, CloudWatch, SageMaker)
+Google Cloud (Dataproc, BigQuery ML, Vertex AI, Cloud Storage, CloudRun)
+
+# Tools
+Streamlit • Gradio • Power BI
 
 ---
 
-## Professional Direction
+## Professional Interests
 
-Interested in opportunities involving machine learning engineering and applied AI systems, particularly roles that combine advanced modeling with scalable data and cloud-based workflows.
+I am interested in roles related to:
 
-I am motivated by building intelligent, production-oriented systems that connect data processing, model development, and real-world deployment.
+- Machine Learning Engineering
+
+- AI Engineering
+
+- Applied Data Science
+
+I enjoy working on projects that involve building ML models, processing large datasets, and deploying solutions in cloud environments.
 
 ---
 
-Connect with me on LinkedIn: www.linkedin.com/in/pei-ting-578b262a7
+## Connect with me on LinkedIn
+www.linkedin.com/in/pei-ting-578b262a7
