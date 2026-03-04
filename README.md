@@ -26,19 +26,19 @@ Experience working with machine learning workflows on cloud platforms:
 
 ### AWS
 
--- EMR for distributed Spark processing
+- EMR for distributed Spark processing
 
--- S3 for data storage
+- S3 for data storage
 
--- Building scalable ML pipelines
+- Building scalable ML pipelines
 
 ### Google Cloud Platform
 
--- Dataproc for Spark workloads
+- Dataproc for Spark workloads
 
--- BigQuery ML for model training
+- BigQuery ML for model training
 
--- Vertex AI for model experimentation
+- Vertex AI for model experimentation
 
 My projects focus on building clear and reproducible ML pipelines from data processing to model evaluation.
 
@@ -66,23 +66,23 @@ My projects focus on building clear and reproducible ML pipelines from data proc
 ## Tech Stack
 
 ### Languages
-Python • R • SQL
+- Python • R • SQL
 
 ### Machine Learning
-Scikit-learn • TensorFlow • PyTorch • Spark MLlib
+- Scikit-learn • TensorFlow • PyTorch • Spark MLlib
 
 ### NLP
-Text Classification • Sentiment Analysis • FinBERT
+- Text Classification • Sentiment Analysis • FinBERT
 
 ### Big Data
-Apache Spark • Hive
+- Apache Spark • Hive
 
 ### Cloud Platforms
-AWS (EMR, S3, EC2, CloudWatch, SageMaker)
-Google Cloud (Dataproc, BigQuery ML, Vertex AI, Cloud Storage, CloudRun)
+- AWS (EMR, S3, EC2, CloudWatch, SageMaker)
+- Google Cloud (Dataproc, BigQuery ML, Vertex AI, Cloud Storage, CloudRun)
 
 ### Tools
-Streamlit • Gradio • Power BI
+- Streamlit • Gradio • Power BI
 
 ---
 
