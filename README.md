@@ -24,7 +24,7 @@ I enjoy building practical machine learning systems that combine data processing
 
 Experience working with machine learning workflows on cloud platforms:
 
-# AWS
+### AWS
 
 -- EMR for distributed Spark processing
 
@@ -32,7 +32,7 @@ Experience working with machine learning workflows on cloud platforms:
 
 -- Building scalable ML pipelines
 
-# Google Cloud Platform
+### Google Cloud Platform
 
 -- Dataproc for Spark workloads
 
@@ -45,19 +45,19 @@ My projects focus on building clear and reproducible ML pipelines from data proc
 ---
 
 ## Featured Projects
-# AI Trading System with Reinforcement Learning
+### AI Trading System with Reinforcement Learning
 
 - Developed a research prototype that integrates financial market data, fundamental indicators, and sentiment analysis (FinBERT) to explore reinforcement learning strategies for trading decisions.
 
-# Distributed Machine Learning on AWS EMR
+### Distributed Machine Learning on AWS EMR
 
 - Built a distributed ML pipeline using Apache Spark on AWS EMR to perform scalable data processing and model training.
 
-# NLP Fake Job Posting Detection
+### NLP Fake Job Posting Detection
 
 - Implemented an NLP classification system to detect fraudulent job postings using traditional ML models and LSTM networks, with techniques to handle class imbalance.
 
-# Cloud-Based Heart Disease Prediction Pipeline
+### Cloud-Based Heart Disease Prediction Pipeline
 
 - Designed a cloud ML workflow on Google Cloud Platform using Dataproc, BigQuery ML, and Vertex AI for healthcare prediction tasks.
 
@@ -65,23 +65,23 @@ My projects focus on building clear and reproducible ML pipelines from data proc
 
 ## Tech Stack
 
-#Languages
+### Languages
 Python • R • SQL
 
-#Machine Learning
+### Machine Learning
 Scikit-learn • TensorFlow • PyTorch • Spark MLlib
 
-# NLP
+### NLP
 Text Classification • Sentiment Analysis • FinBERT
 
-# Big Data
+### Big Data
 Apache Spark • Hive
 
-# Cloud Platforms
+### Cloud Platforms
 AWS (EMR, S3, EC2, CloudWatch, SageMaker)
 Google Cloud (Dataproc, BigQuery ML, Vertex AI, Cloud Storage, CloudRun)
 
-# Tools
+### Tools
 Streamlit • Gradio • Power BI
 
 ---
